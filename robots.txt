@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/smart-parke-luxury-dog-boarding-brea-ca/sitemap.xml
